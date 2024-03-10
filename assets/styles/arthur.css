@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.fdb-block {
+    padding: 30px 0;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --primary-Color: #0071DB;
+    --secondary-Color: #F7C04D;
+    --text-Color: #031f42;
+    --alert-Color: #0099ff;
+    --success-Color: #39CABD;
+    --warning-Color: #ee8800;
+    --error-Color: #fe514c;
+    --grey-Color: #CDCDCD;
+    --black-Color: #252525;
+    --main-Background-Color: #F5F7FD;
+    --secondary-Background-Color:#222222;
+    --white-Color: #fff;
+    --secondary-Font: "Montserrat", sans-serif;
+    --button-padding: 13px 30px;
+    --button-border-radius: 5px;
+    --button-font-weight: 500;
+    --heading: 35px;
+    --heading-two: 25px;
+}
