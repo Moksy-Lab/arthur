@@ -23,7 +23,7 @@
     --secondary-Background-Color:#222222;
     --white-Color: #fff;
     --secondary-Font: "Montserrat", sans-serif;
-    --button-padding: 0 36px;
+    --button-padding: .375rem .75rem;
     --button-border-radius: 5px;
     --button-font-weight: 500;
     --heading: 35px;
