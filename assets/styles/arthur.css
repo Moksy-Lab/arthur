@@ -115,7 +115,7 @@
     padding: 5rem 0;
 }
 .calltoactioncalnt4q93pe h2 {
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
 .calltoactioncalnt4q93pe .btn-primary,
 .calltoactioncalnt4q93pe .btn-primary:hover,
@@ -175,8 +175,8 @@ font-size: var(--heading);
 
 /*cryderi9djh3ek7*/
 .cryderi9djh3ek7 .fdb-block {
-    padding: 0.5rem 0;
+    padding: 1rem 0;
 }
 .cryderi9djh3ek7 h1 {
-   font-size: var(--heading-two);
+   font-size: var(--heading-medium);
 }
