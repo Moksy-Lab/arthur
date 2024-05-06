@@ -96,10 +96,14 @@
     padding: 5rem;
 }
 .funtushftac0ssp3mu h1{
-    font-size: var(--heading);
+    font-size: var(--heading-large);
+    display: none;
+}
+.funtushftac0ssp3mu .lead{
+    display: none;
 }
 .funtushftac0ssp3mu h3{
-    font-size: var(--heading-two);
+    font-size: var(--heading-medium);
     margin-top: 10px;
     font-weight: 400;
 }
