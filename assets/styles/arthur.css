@@ -107,6 +107,9 @@
     margin-top: 10px;
     font-weight: 400;
 }
+.funtushftac0ssp3mu .rounded{
+    border-radius: var(--logo-border-radius) !important;
+}
 /*calltoactioncalnt4q93pe*/
 .calltoactioncalnt4q93pe .fdb-block {
     padding: 5rem 0;
