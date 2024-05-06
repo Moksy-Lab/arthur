@@ -134,7 +134,7 @@
     display: none;
 }
 .filafe9c6aurswl h2 {
-    font-size: var(--heading-two);
+    font-size: var(--heading-medium);
 }
 .filafe9c6aurswl a,
 .filafe9c6aurswl a:hover{
@@ -144,9 +144,17 @@
 /*testimonialtmgmxjq0hb8*/
 .testimonialtmgmxjq0hb8 .fdb-block{
     padding: 3.5rem 0;
+    background-image: none;
 }
 .testimonialtmgmxjq0hb8 strong {
     font-weight: var(--button-font-weight);
+    font-size: var(--heading-medium);
+}
+.testimonialtmgmxjq0hb8 .rounded-circle{
+    border-radius: var(--logo-border-radius) !important;
+}
+.testimonialtmgmxjq0hb8 .lead{
+ font-size: var(--paragraph);
 }
 /*clorettacoi6c9oewoe*/
 .clorettacoi6c9oewoe .fdb-block {
@@ -156,7 +164,7 @@
     padding-top: 1rem !important;
 }
 .clorettacoi6c9oewoe h1{
-font-size: var(--heading);
+font-size: var(--heading-large);
 }
 .clorettacoi6c9oewoe .btn-primary,
 .clorettacoi6c9oewoe .btn-primary:hover,
@@ -172,7 +180,12 @@ font-size: var(--heading);
     .clorettacoi6c9oewoe .fdb-block .row-100 {
         height: 3.25rem;
     }
-
+.clorettacoi6c9oewoe .icons{
+    max-height: var(--paragraph);
+}
+.clorettacoi6c9oewoe .fdb-block .row-70{
+    height: 1.375rem;
+}
 /*cryderi9djh3ek7*/
 .cryderi9djh3ek7 .fdb-block {
     padding: 1rem 0;
