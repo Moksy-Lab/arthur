@@ -142,7 +142,7 @@
     padding: var(--section-padding);
 }
 .filafe9c6aurswl .fdb-block{
-    padding: 3rem 0;
+    padding: 2rem 0;
     background-image: none;
 }
 .filafe9c6aurswl h1 {
@@ -179,7 +179,7 @@
 }
 /*clorettacoi6c9oewoe*/
 .clorettacoi6c9oewoe .fdb-block {
-    padding: 3rem 0;
+    padding: 0rem 0;
 }
 .clorettacoi6c9oewoe .pt-5, .py-5 {
     padding-top: 1rem !important;
@@ -206,6 +206,12 @@ font-size: var(--heading-large);
 }
 .clorettacoi6c9oewoe .fdb-block .row-70{
     height: 1.375rem;
+}
+.clorettacoi6c9oewoe .lead{
+    font-size: var(--paragraph);
+}
+.clorettacoi6c9oewoe .h2{
+    font-size: var(--heading-medium);
 }
 /*cryderi9djh3ek7*/
 .cryderi9djh3ek7 .fdb-block {
