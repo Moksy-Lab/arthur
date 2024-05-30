@@ -1,0 +1,280 @@
+/*****TypographyCSS*****/
+*,
+*::before,
+*::after {
+  box-sizing: border-box; }
+
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -ms-overflow-style: scrollbar;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+scroll-behavior: smooth; }
+
+@-ms-viewport {
+  width: device-width; }
+
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects; }
+
+input,
+button,
+select,
+optgroup,
+textarea {
+  margin: 0;
+  font-family: inherit;
+ }
+
+textarea {
+  overflow: auto;
+  resize: vertical; }
+
+h1, .h1 {
+  font-size: 2.75rem; }
+
+h2, .h2 {
+  font-size: 2rem; }
+
+h3, .h3 {
+  font-size: 1.125rem; }
+
+h4, .h4 {
+  font-size: 1rem; }
+
+h5, .h5 {
+  font-size: 0.875rem; }
+
+h6, .h6 {
+  font-size: 0.813rem; }
+
+.lead {
+  font-size: 1.4rem;
+  font-weight: 400; }
+
+.display-1 {
+  font-size: 6rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-2 {
+  font-size: 5.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-3 {
+  font-size: 4.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1); }
+/*****TypographyCSS*****/
+
+/*****hadoc*****/
+/* #hadoc(f286c1a79615597b) #css starts */
+.headerh222fa673a781ab9e .fa-shopping-cart{
+    color: #FC8375;
+    font-size: 22px
+}
+.headerh222fa673a781ab9e .fa-user-plus{
+    color: #AD6CF5;
+    font-size: 22px
+}
+.headerh222fa673a781ab9e .btn{
+    font-weight: bold
+}
+/* #hadoc(f286c1a79615597b) #css ends */
+/*****hadoc*****/
+
+/*****agni*****/
+/* #agni(cded716dce36a6e8) #css starts  */
+.aboutcded716dce36a6e8 .DescriptionHeading {
+    font-size: 50px
+}
+
+.aboutcded716dce36a6e8 .DescriptionPara {
+    color: #808080;
+    font-size: 18px
+}
+
+.aboutcded716dce36a6e8 .badge{
+    color: #FF705E;
+    background-color: #F5F0F7
+}
+.aboutcded716dce36a6e8 .searchBtn{
+    background-color:#FF705E ;
+    border-radius: 15px;
+    color: white
+}
+/* #agni(cded716dce36a6e8) #css ends  */
+/*****agni*****/
+
+/*****single*****/
+/* #single(eb6af6ab30a03fde) #css starts  */
+.serviceeb6af6ab30a03fde{
+    background: #eee
+}
+.serviceeb6af6ab30a03fde span{
+    font-size:15px
+}
+.serviceeb6af6ab30a03fde .box{
+    padding:40px 0px
+}
+
+.serviceeb6af6ab30a03fde .box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:60px 10px;
+    margin:30px 0px
+}
+.serviceeb6af6ab30a03fde .text{
+    margin:20px 0px
+}
+
+.serviceeb6af6ab30a03fde .fa{
+ color: aqua
+}
+/* #single(eb6af6ab30a03fde) #css ends  */
+/*****single*****/
+
+/*****quack*****/
+/* #quack(82b7ca311d27746a) #css starts  */
+.quickLinkq82b7ca311d27746a .btn{
+    font-weight:bold;
+    border: 1px solid;
+    margin: 11px
+}
+.quickLinkq82b7ca311d27746a .btn:hover{
+    background-color: #0A9F85;
+    color: rgb(255, 255, 255)
+}
+.quickLinkq82b7ca311d27746a .hp{
+ color: #130D43
+}
+/* #quack(82b7ca311d27746a) #css ends  */
+/*****quack*****/
+
+/*****cawn*****/
+    /* #cawn(calltoactioncalnt4q93pe) #css starts  */
+    .calltoactioncalnt4q93pe .fdb-block {   
+        padding: 7.5rem 0;
+        background-color: #FFFFFF
+     }
+    /* #cawn(calltoactioncalnt4q93pe) #css ends  */
+/*****cawn*****/
+
+/*****fila*****/
+/* #fila(filafe9c6aurswl) #css starts */
+.filafe9c6aurswl .fdb-block {
+    padding: 7.5rem 0;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-color: #FFFFFF; 
+    background-image: url(https://builder.moksy.com/wp-content/uploads/2022/08/purple.svg)
+}
+
+.filafe9c6aurswl   .fdb-block .fdb-box {
+      background: #FFFFFF;
+      padding: 3.75rem 2.5rem;
+      overflow: hidden;
+      color: #444444;
+      border-radius: 0.25rem;
+      box-shadow: 0 0.3125rem 0.875rem 0 rgba(129, 129, 129, 0.2) 
+     }
+     .filafe9c6aurswl     .fdb-block .fdb-touch {
+      border-top: solid 0.3125rem #329ef7;
+      z-index: 2
+    }
+
+    .filafe9c6aurswl   .fdb-block .row-70 {
+      height: 4.375rem;
+      width: 100%
+     }
+/* #fila(filafe9c6aurswl) #css starts */
+/*****fila*****/
+
+/*****tamia*****/
+    /* #tamia(testimonialtmgmxjq0hb8) #css starts  */
+    .testimonialtmgmxjq0hb8 .fdb-block {
+        padding: 7.5rem 0;
+        position: relative;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        overflow: hidden;
+        background-color: #FFFFFF; 
+        background-image: url(https://builder.moksy.com/wp-content/uploads/2022/08/red.svg)
+      }
+       
+       .testimonialtmgmxjq0hb8 .fdb-block .fdb-box {
+          background: #FFFFFF;
+          padding: 3.75rem 2.5rem;
+          overflow: hidden;
+          color: #444444;
+          border-radius: 0.25rem;
+          box-shadow: 0 0.3125rem 0.875rem 0 rgba(129, 129, 129, 0.2)
+        }
+    /* #tamia(testimonialtmgmxjq0hb8) #css ends  */
+/*****tamia*****/
+
+/*****cloretta*****/
+    /* #cloretta(clorettacoi6c9oewoe) #css starts  */
+    .clorettacoi6c9oewoe .fdb-block {
+        padding: 7.5rem 0
+     }
+    
+    
+     .clorettacoi6c9oewoe .fdb-block .fdb-box {
+          padding: 3.75rem 2.5rem
+        }
+    
+        .clorettacoi6c9oewoe .fdb-block .row-100 {
+          height: 6.25rem;
+          width: 100%
+         }
+          .clorettacoi6c9oewoe .fdb-block .row-50 {
+          height: 3.125rem;
+          width: 100%
+         }
+          .clorettacoi6c9oewoe .fdb-block .row-70 {
+          height: 4.375rem;
+          width: 100%
+         }
+         .clorettacoi6c9oewoe .map{
+            width:100%;
+     height: 300px;
+     border: none
+         }
+         .clorettacoi6c9oewoe  .icons{
+            max-height: 40px       
+          }
+    /* #cloretta(clorettacoi6c9oewoe) #css ends  */
+/*****cloretta*****/
+
+/*****cryderi*****/
+    /* #cryderi(cryderi9djh3ek7) #css starts  */
+    .cryderi9djh3ek7 .fdb-block {
+        padding: 7.5rem 0
+        }
+    /* #cryderi(cryderi9djh3ek7) #css ends  */
+/*****cryderi*****/
